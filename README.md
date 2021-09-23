@@ -1,5 +1,5 @@
 # MapReduce-Style-Wordcount-Application
-My project of CMPSC 473. 
+My project of CMPSC 473(Operating Systems).
 \
 \
 This project is designed to give you experience in writing multi-threaded programs by implementing a simplified MapReduce-style wordcount application. By working on this project:\
